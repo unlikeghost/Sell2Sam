@@ -40,6 +40,28 @@ Usando https://www.naics.com/code-search/
   <img src="sell2sam\naics.png" title = "Reusltados de keyword construction naics.com">
 </p>
 
+```
+Keyword: sushi bar
+```
+
+Prediccion con top 10 con sell2sam
+
+<p align="center">
+  <img src="sell2sam\ejemplo_resultado_2.png" title = "Reusltados de keyword construction modelo">
+</p>
+
+Usando https://www.naics.com/code-search/
+
+<p align="center">
+  <img src="sell2sam\naics_2.png" title = "Reusltados de keyword construction naics.com">
+</p>
+
+Resultado esperado https://siccode.com/business/sushi-bar-5
+
+<p align="center">
+  <img src="sell2sam\esperado.png" title = "Reusltados de keyword construction naics.com">
+</p>
+
 
 ## Desarrollador
 * Jesus Alan Hernandez Galvan
